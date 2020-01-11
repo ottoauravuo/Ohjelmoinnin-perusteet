@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toistorakenne 1", "Toistorakenne 1\Toistorakenne 1.csproj", "{BEA38A24-850B-45D0-835D-F1FC857931E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA38A24-850B-45D0-835D-F1FC857931E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA38A24-850B-45D0-835D-F1FC857931E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA38A24-850B-45D0-835D-F1FC857931E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA38A24-850B-45D0-835D-F1FC857931E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2356D44-C111-4735-9951-2388B8D4D270}
+	EndGlobalSection
+EndGlobal

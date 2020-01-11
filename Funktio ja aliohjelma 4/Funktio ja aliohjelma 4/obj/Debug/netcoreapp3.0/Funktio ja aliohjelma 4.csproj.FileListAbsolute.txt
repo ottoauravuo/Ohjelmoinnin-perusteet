@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.exe
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.deps.json
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.runtimeconfig.json
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.dll
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\bin\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.pdb
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\obj\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\obj\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\obj\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.AssemblyInfo.cs
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\obj\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.dll
+C:\Users\Otto\source\repos\Funktio ja aliohjelma 4\Funktio ja aliohjelma 4\obj\Debug\netcoreapp3.0\Funktio ja aliohjelma 4.pdb

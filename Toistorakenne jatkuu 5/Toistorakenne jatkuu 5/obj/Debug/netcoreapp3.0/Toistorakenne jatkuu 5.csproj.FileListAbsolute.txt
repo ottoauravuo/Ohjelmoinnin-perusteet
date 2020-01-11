@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.exe
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.deps.json
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.runtimeconfig.json
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.dll
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\bin\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.pdb
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\obj\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\obj\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\obj\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.AssemblyInfo.cs
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\obj\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.dll
+C:\Users\Otto\source\repos\Toistorakenne jatkuu 5\Toistorakenne jatkuu 5\obj\Debug\netcoreapp3.0\Toistorakenne jatkuu 5.pdb

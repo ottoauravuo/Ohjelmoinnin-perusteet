@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\obj\Debug\netcoreapp3.0\Itsearviointi.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\obj\Debug\netcoreapp3.0\Itsearviointi.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\obj\Debug\netcoreapp3.0\Itsearviointi.AssemblyInfo.cs
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.exe
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.deps.json
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.runtimeconfig.json
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.dll
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\bin\Debug\netcoreapp3.0\Itsearviointi.pdb
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\obj\Debug\netcoreapp3.0\Itsearviointi.dll
+C:\Users\Otto\source\repos\Itsearviointi\Itsearviointi\obj\Debug\netcoreapp3.0\Itsearviointi.pdb
