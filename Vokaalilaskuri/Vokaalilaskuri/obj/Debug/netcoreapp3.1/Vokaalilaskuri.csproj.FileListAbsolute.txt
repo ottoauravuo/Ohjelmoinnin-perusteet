@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.exe
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.deps.json
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.runtimeconfig.json
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.dll
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\bin\Debug\netcoreapp3.1\Vokaalilaskuri.pdb
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\obj\Debug\netcoreapp3.1\Vokaalilaskuri.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\obj\Debug\netcoreapp3.1\Vokaalilaskuri.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\obj\Debug\netcoreapp3.1\Vokaalilaskuri.AssemblyInfo.cs
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\obj\Debug\netcoreapp3.1\Vokaalilaskuri.dll
+C:\Users\Otto\source\repos\Vokaalilaskuri\Vokaalilaskuri\obj\Debug\netcoreapp3.1\Vokaalilaskuri.pdb

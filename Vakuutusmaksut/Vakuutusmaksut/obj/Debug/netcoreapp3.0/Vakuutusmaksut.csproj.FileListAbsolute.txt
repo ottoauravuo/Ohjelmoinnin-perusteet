@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.exe
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.deps.json
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.runtimeconfig.json
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.dll
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\bin\Debug\netcoreapp3.0\Vakuutusmaksut.pdb
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\obj\Debug\netcoreapp3.0\Vakuutusmaksut.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\obj\Debug\netcoreapp3.0\Vakuutusmaksut.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\obj\Debug\netcoreapp3.0\Vakuutusmaksut.AssemblyInfo.cs
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\obj\Debug\netcoreapp3.0\Vakuutusmaksut.dll
+C:\Users\Otto\source\repos\Vakuutusmaksut\Vakuutusmaksut\obj\Debug\netcoreapp3.0\Vakuutusmaksut.pdb
