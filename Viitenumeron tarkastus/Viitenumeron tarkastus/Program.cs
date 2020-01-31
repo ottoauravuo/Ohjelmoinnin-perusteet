@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -40,7 +40,7 @@ namespace Viitenumeron_tarkastus
 
         static void RefNumCheck()
         {
-            string refNum = InputFun();
+            string refNum = InputNum();
             int sum = 0;
             int[] multiplier = new int[] { 7, 3, 1 };
             int[] refArr = new int[refNum.Length];
@@ -68,7 +68,7 @@ namespace Viitenumeron_tarkastus
             }
         }
 
-        static string InputFun()
+        static string InputNum()
         {
             string input = "";
             int inputNum = 0;
@@ -76,7 +76,7 @@ namespace Viitenumeron_tarkastus
             {
                 Console.Write("Syötä viitenumero, jossa on vain numeroita ja on 4-20 merkkiä pitkä:");
                 input = Console.ReadLine();
-            } 
+            }
             while (input.Length <= 3 || input.Length >= 21 || !Int32.TryParse(input, out inputNum) || inputNum < 0);
             return input;
         }
@@ -89,7 +89,7 @@ namespace Viitenumeron_tarkastus
             {
                 Console.Write("Syötä viitenumeron alkuosa, joka on 3-19 merkkiä pitkä:");
                 refNumInput = Console.ReadLine();
-            } 
+            }
             while (refNumInput.Length <= 2 || refNumInput.Length >= 20);
             int sum = 0;
             int[] multiplier = new int[] { 7, 3, 1 };
