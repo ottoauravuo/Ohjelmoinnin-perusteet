@@ -77,7 +77,7 @@ namespace Viitenumeron_tarkastus
                 Console.Write("Syötä viitenumero, jossa on vain numeroita ja on 4-20 merkkiä pitkä:");
                 input = Console.ReadLine();
             } 
-            while (input.Length <= 4 || input.Length >= 20 || !Int32.TryParse(input, out inputNum) || inputNum < 0);
+            while (input.Length <= 3 || input.Length >= 21 || !Int32.TryParse(input, out inputNum) || inputNum < 0);
             return input;
         }
 
