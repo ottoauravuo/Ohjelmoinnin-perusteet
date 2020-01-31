@@ -90,7 +90,7 @@ namespace Viitenumeron_tarkastus
                 Console.Write("Syötä viitenumeron alkuosa, joka on 3-19 merkkiä pitkä:");
                 refNumInput = Console.ReadLine();
             } 
-            while (refNumInput.Length <= 3 || refNumInput.Length >= 19);
+            while (refNumInput.Length <= 2 || refNumInput.Length >= 20);
             int sum = 0;
             int[] multiplier = new int[] { 7, 3, 1 };
             int[] refArr = new int[refNumInput.Length];
